@@ -25,7 +25,9 @@ Me gusta el trabajo colaborativo, el código limpio y los retos que obligan a pe
 Backend para una plataforma de gestión de gimnasios con autenticación de usuarios, manejo de membresías y control de acceso por roles.
 Formé parte del equipo backend en un desarrollo colaborativo de 7 personas, trabajando con metodologías ágiles y flujo de trabajo en Git.
 Stack: Node.js · NestJS · PostgreSQL · TypeORM · JWT
+
 Proyecto: https://pf-front-ijjg.vercel.app/
+
 Documentación Swagger: https://powergym-back-1s39.onrender.com/api
 
 🛠 Tecnologías y Herramientas
