@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Juan</h1>
 <h3 align="center">Un dedicado desarrollador Backend de Colombia</h3>
 
-- 🌱 I’m currently learning **TypeScript, NestJS**
+- 🌱 Actualmente estoy aprendiendo **TypeScript, NestJS**
 
-- 💬 Ask me about **JavaScript, TypeScript, NestJS, PostgresSQL, TypeORM**
+- 💬 Preguntame sobre: **JavaScript, TypeScript, NestJS, PostgresSQL, TypeORM**
 
-- 📫 How to reach me **juanesmo888@gmail.com**
+- 📫 Me puedes contactar a los siguientes correos: **juanesmo888@gmail.com / juanmorapca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
