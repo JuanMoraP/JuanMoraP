@@ -19,11 +19,14 @@ Me gusta el trabajo colaborativo, el código limpio y los retos que obligan a pe
 
 
 🚀 Proyecto Destacado
+
 🏋️ PowerGym API
+
 Backend para una plataforma de gestión de gimnasios con autenticación de usuarios, manejo de membresías y control de acceso por roles.
 Formé parte del equipo backend en un desarrollo colaborativo de 7 personas, trabajando con metodologías ágiles y flujo de trabajo en Git.
 Stack: Node.js · NestJS · PostgreSQL · TypeORM · JWT
-🔗 Ver repositorio
+Proyecto: https://pf-front-ijjg.vercel.app/
+Documentación Swagger: https://powergym-back-1s39.onrender.com/api
 
 🛠 Tecnologías y Herramientas
 <p align="left">
@@ -54,9 +57,7 @@ Stack: Node.js · NestJS · PostgreSQL · TypeORM · JWT
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanMoraP&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMoraP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 📫 Contacto
 <p align="left">
