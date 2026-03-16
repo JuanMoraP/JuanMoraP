@@ -5,12 +5,15 @@
 </p>
 
 👨‍💻 Sobre mí
+
 Soy desarrollador Full Stack con foco en el lado del servidor. Me apasiona diseñar arquitecturas backend limpias, modulares y seguras — el tipo de código que escala bien y se mantiene con gusto.
 Trabajo principalmente con TypeScript, NestJS y PostgreSQL, implementando autenticación con JWT, control de acceso mediante Guards, y documentando APIs con Swagger. También tengo experiencia en el frontend con React, lo que me permite entender y conectar el flujo completo de una aplicación.
 Me gusta el trabajo colaborativo, el código limpio y los retos que obligan a pensar antes de escribir.
 
 🌱 Actualmente profundizando en TypeScript y NestJS
+
 🤝 Abierto a colaborar en proyectos backend interesantes
+
 💬 Pregúntame sobre: JavaScript · TypeScript · NestJS · PostgreSQL · TypeORM · REST APIs
 📫 Contacto: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8ee4fbefe0ebfde3e1b6b6b6cee9e3efe7e2a0ede1e3">[email protected]</a> · <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3b514e5a555654495a4b585a7b5c565a525715585456">[email protected]</a>
 
